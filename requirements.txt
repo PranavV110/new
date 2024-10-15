@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+urllib
+spacy
+sci-kitlearn
+streamlit
+bs4
+selenium
+datetime
+pathlib
+regex
+feedparser
